@@ -92,7 +92,7 @@ This tool is useful for:
 
 ## 📌 Author
 
-**Anand Prakash**
+**Jeyasi Pandey**
 
 ---
 
