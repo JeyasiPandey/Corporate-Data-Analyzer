@@ -97,3 +97,18 @@ This tool is useful for:
 ---
 
 ## ⭐ If you like this project, give it a star!
+
+
+## 📸 Screenshots
+
+### 🖥 Main Application Interface
+![Main UI](main-ui.png)
+
+### 📊 Bar Chart Visualization
+![Bar Chart](bar-chart.png)
+
+### 📈 Line Chart Visualization
+![Line Chart](line-chart.png)
+
+### 🥧 Pie Chart Visualization
+![Pie Chart](pie-chart.png)
